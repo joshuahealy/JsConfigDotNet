@@ -44,6 +44,8 @@
     <Compile Include="Config\JsConfigFieldCollection.cs" />
     <Compile Include="Config\JsConfigFieldElement.cs" />
     <Compile Include="Config\JsConfigSection.cs" />
+    <Compile Include="JsConfig.cs" />
+    <Compile Include="JsConfigField.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appclay.JsConfig", "Appclay.JsConfig\Appclay.JsConfig.csproj", "{A44910B6-B8DD-4023-B2E0-1CADEEF6D37D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3Test", "Mvc3Test\Mvc3Test.csproj", "{7EE9B638-C39C-4530-9548-18BC2FBDCD59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{A44910B6-B8DD-4023-B2E0-1CADEEF6D37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A44910B6-B8DD-4023-B2E0-1CADEEF6D37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A44910B6-B8DD-4023-B2E0-1CADEEF6D37D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE9B638-C39C-4530-9548-18BC2FBDCD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE9B638-C39C-4530-9548-18BC2FBDCD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE9B638-C39C-4530-9548-18BC2FBDCD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE9B638-C39C-4530-9548-18BC2FBDCD59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
